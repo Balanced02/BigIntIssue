@@ -37,7 +37,7 @@ const App = () => {
           <Text style={styles.text}>{`Mode: ${
             isDebuggerMode() ? 'Debugging' : 'Not-debugging'
           }`}</Text>
-          <Text style={styles.text}>BigInt Type: {getBigIntType()}</Text>
+          <Text style={styles.text}>Return Type: {getBigIntType()}</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
