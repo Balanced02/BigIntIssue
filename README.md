@@ -29,4 +29,4 @@ This works fine on `iOS`
 ![iOS without debugger](images/iOS1.png?raw=true 'IOS without Debugger')
 
 - Android without debugger
-![Android without debugger](images/iOS2.png?raw=true 'IOS without Debugger')
+![Android without debugger](images/android1.png?raw=true 'IOS without Debugger')
